@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://codewonders.dev/icons/favicon-96x96.png" width="70" />  
-  <h2 align="center"><a href="https://codewonders.dev">I'm Owolabi Samuel</a></h2>
+<p align="center">  
+  <h2 align="center">I'm Owolabi Samuel</h2>
   <p align="center"> Frontend developer and JavaScript engineer</p>
 </p>
 
@@ -16,12 +15,10 @@
 📫 You can reach me at royalfingerz@gmail.com.
 
 - 👨 Pronouns I identify with:  He/Him
-- 🌱 I’m currently learning react deeply.
-- 👨‍⚕️ I'm a medical student with deep interest in using tech to create medical solutions
-- 💬 I think deeply about maths, physics, medicine and philosphy 🎺
-- ⚡ Fun fact: I play the drums 🥁. shhh dont tell anyone 😄
+- 🌱 I’m currently learning react to its depth.
+- 👨‍⚕️ I'm a medical student with great interest in using tech to create medical solutions.
+- 💬 I think deeply about maths, physics, medicine and philosphy.
 
-### Hi there 👋
 
 <!--
 **samowo01/samowo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
